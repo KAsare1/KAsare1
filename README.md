@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Asare</h1>
-<h3 align="center">A passionate frontend developer from Ghana</h3>
+<h3 align="center">A passionate fullstack developer from Ghana</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kasare1&label=Profile%20views&color=0e75b6&style=flat" alt="kasare1" /> </p>
 
