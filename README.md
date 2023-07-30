@@ -5,7 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kasare1" alt="kasare1" /></a> </p>
 
-- 🔭 I’m currently working on **an E-commerce moblie application**
 
 - 🌱 I’m currently learning **Natural Language Processing with Python**
 
