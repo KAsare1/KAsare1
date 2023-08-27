@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a desktop application<br>👯 I’m looking to collaborate on a Hospital Management System<br>🌱 I’m currently learning Machine learning with Python
+🔭 I’m currently working on a Desktop Application<br>👯 I’m looking to collaborate on a Hospital Management System<br>🌱 I’m currently learning Machine learning with Python
 
 
 # 💻 Tech Stack:
